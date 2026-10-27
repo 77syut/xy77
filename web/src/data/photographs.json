@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "冬日的旁观",
+    "subtitle": "Winter, in passing",
+    "src": "photography/frame-01.webp",
+    "width": 1800,
+    "height": 1200,
+    "location": "大连"
+  },
+  {
+    "id": 2,
+    "title": "蓝色时差",
+    "subtitle": "A quieter blue",
+    "src": "photography/frame-02.webp",
+    "width": 1800,
+    "height": 1200,
+    "location": "威海"
+  },
+  {
+    "id": 3,
+    "title": "冰山特调",
+    "subtitle": "A drink after dark",
+    "src": "photography/frame-03.webp",
+    "width": 1800,
+    "height": 1200,
+    "location": ""
+  },
+  {
+    "id": 4,
+    "title": "靠岸之前",
+    "subtitle": "Before the shore",
+    "src": "photography/frame-04.webp",
+    "width": 1800,
+    "height": 1200,
+    "location": "布鲁威斯号沉船"
+  },
+  {
+    "id": 6,
+    "title": "雾里有答案",
+    "subtitle": "Somewhere in the mist",
+    "src": "photography/frame-06.webp",
+    "width": 1080,
+    "height": 1620,
+    "location": "河北 · 百里天路"
+  },
+  {
+    "id": 7,
+    "title": "日落不需要旁白",
+    "subtitle": "No words, just dusk",
+    "src": "photography/frame-07.webp",
+    "width": 1620,
+    "height": 1080,
+    "location": "印尼 · 乌鲁瓦图"
+  },
+  {
+    "id": 8,
+    "title": "工人午后",
+    "subtitle": "An afternoon at work",
+    "src": "photography/frame-08.webp",
+    "width": 1080,
+    "height": 1620,
+    "location": "印尼 · 乌布"
+  },
+  {
+    "id": 10,
+    "title": "海的褶皱",
+    "subtitle": "Where the sea folds",
+    "src": "photography/frame-10.webp",
+    "width": 1080,
+    "height": 1620,
+    "location": "印尼 · 佩妮达岛 · 精灵坠崖"
+  },
+  {
+    "id": 11,
+    "title": "另一种呼吸",
+    "subtitle": "Another way to breathe",
+    "src": "photography/frame-11.webp",
+    "width": 1012,
+    "height": 1800,
+    "location": "菲律宾 · 薄荷岛"
+  }
+]
