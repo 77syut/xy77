@@ -20,6 +20,10 @@ npm run lint
 
 ## 发布
 
+正式网址：[xy77.vercel.app](https://xy77.vercel.app/)
+
+备用网址：[77syut.github.io/xy77](https://77syut.github.io/xy77/)
+
 源代码：[77syut/xy77](https://github.com/77syut/xy77)。
 
 - Vercel 从此仓库自动部署；项目根目录设为仓库根，`vercel.json` 配置安装、构建命令及 `web/dist` 输出目录。
